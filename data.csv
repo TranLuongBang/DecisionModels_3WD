@@ -1,0 +1,7 @@
+Project,Costs,Schedule,Scope,Intervention
+p1,no,yes,reduced,yes
+p2,yes,no,reduced,yes
+p3,yes,yes,highly reduced,yes
+p4,no,yes,normal,no
+p5,yes,no,reduced,no
+p6,no,yes,highly reduced,yes
